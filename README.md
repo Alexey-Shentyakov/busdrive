@@ -1,7 +1,7 @@
-# busdrive
+## busdrive
 
+```bash
 php test.php
-
 
 bus stop 1
 
@@ -118,3 +118,4 @@ close doors
 passengers in the bus: 3
 passengers at the stop: 0
 --------------------------
+```
